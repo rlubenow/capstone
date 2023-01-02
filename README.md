@@ -1,1 +1,1 @@
-U-Net, FusionNet, Dilated convolutions ... cell segmentation test with pytorch
+U-Net, FusionNet, Dilated convolutions
